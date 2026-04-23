@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE inventory_db;
+SHOW TABLES;
